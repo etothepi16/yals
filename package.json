@@ -1,0 +1,26 @@
+{
+  "name": "yals",
+  "version": "1.0.0",
+  "description": "A super fun life simulation idle game!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etothepi16/yals.git"
+  },
+  "keywords": [
+    "idle",
+    "simulation",
+    "life",
+    "simulator",
+    "game"
+  ],
+  "author": "Paul McDowell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etothepi16/yals/issues"
+  },
+  "homepage": "https://github.com/etothepi16/yals#readme"
+}
